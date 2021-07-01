@@ -20,3 +20,4 @@ Unofficial Minecraft Java Launcher installer for the command line.
 UUP Dump: https://uupdump.net/
 AndroidFileHost (22000.51): 
 GoFile (22000.51): https://gofile.io/d/ojvLoe
+MEGA (22000.51): https://mega.nz/file/qN4xGIBJ#noVkom_NOF4t2BiZtdlQJDl3OCdlPF-XM58OoYMqcfg
